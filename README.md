@@ -1,2 +1,3 @@
-# framework
-ideal web framework - Lightweight PHP framework for heavy apps
+## ideal web framework for PHP
+
+Lightweight PHP framework for heavy apps
